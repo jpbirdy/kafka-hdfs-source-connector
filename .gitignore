@@ -1,0 +1,4 @@
+target
+kafka-connect-hdfs
+.idea
+*iml
