@@ -42,8 +42,7 @@ dictionary, such as '${CONFLUENT_HOME}/etc/schema-registry/connect-avro-standalo
     <code>$ bin/kafka-server-start etc/kafka/server.properties</code>
 4. Start Schema Registry(Should start in Kafka server)
 
-    <code>$ bin/schema-registry-start etc/schema-registry/schema-registry
-    .properties</code>
+    <code>$ bin/schema-registry-start etc/schema-registry/schema-registry.properties</code>
 
 5. Start HDFS
 
