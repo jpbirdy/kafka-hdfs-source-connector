@@ -1,6 +1,6 @@
 # kafka-hdfs-source-connector
 kafka-hdfs-source-connector is a Kafka Connector for loading data from
- HDFS. HDFS sink connector is [hear](*https://github.com/confluentinc/kafka-connect-hdfs)
+ HDFS. HDFS sink connector is [hear](https://github.com/confluentinc/kafka-connect-hdfs)
 
 * allow multi fils
 * allow file&folder listen
